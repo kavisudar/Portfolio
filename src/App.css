@@ -28,10 +28,10 @@ body {
 }
 
 /* Add Akira font */
-@font-face {
+/* @font-face {
   font-family: 'Aesthetic';
   src: url('./Assert/Font/Aesthetic.ttf') format('opentype');
-}
+} */
 
 /* Apply Akira font to nav h1 */
 nav h1 {

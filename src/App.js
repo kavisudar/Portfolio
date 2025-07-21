@@ -1,11 +1,11 @@
 import './App.css';
-import Cursor from './Component/Cursor';
 import React from 'react';
 import Nav from './Component/Nav';
-import Skill from './Component/Skill';
 import Home from './Component/Home';
+import Skill from './Component/Skill';
 import Project from './Component/Project';
 import Contact from './Component/Contact';
+import Cursor from './Component/Cursor';
 
 function App() {
   return (
