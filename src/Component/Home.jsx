@@ -21,7 +21,7 @@ function Home() {
             </h2>
             <img src='kavisudar.png' style={{marginRight:"80rem"}}/>
             </center>
-              <img src="home.svg" alt="img error" id='home-svg'/>
+              <img src="home.svg" alt="img errr" id='home-svg'/>
             <div>
               <h3 style={{width:"30rem",position:"relative",left:"30rem",bottom:"50rem",color:"#4C1D95",letterSpacing:"1px"}}>I am a passionate Frontend Developer with a strong foundation in <span style={{color:"cyan"}}>Web Development</span>  and <span style={{color:"cyan"}}>Problem Solving</span>. I am dedicated to creating visually appealing and user-friendly websites that provide an exceptional user experience.</h3>
             </div>
