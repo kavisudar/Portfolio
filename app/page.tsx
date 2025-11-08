@@ -307,8 +307,8 @@ useEffect(() => {
                   {project.technologies.map((tech, techIndex) => (
                     <span 
                       key={techIndex}
-                      className="px-3 py-1 bg-blue-100 dark:bg-linear-to-r dark:from-blue-500/20 dark:to-purple-500/20 text-blue-700 dark:text-blue-300 text-xs rounded-full border border-blue-300 dark:border-blue-400/30"
-                    >
+                      className="px-3 py-1 bg-red-600 dark:bg-linear-to-r dark:from-blue-500/20 dark:to-purple-500/20 text-blue-700 dark:text-blue-300 text-base font-bold rounded-full border border-blue-400 dark:border-blue-400/30">
+                      
                       {tech}
                     </span>
                   ))}
