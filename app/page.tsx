@@ -59,18 +59,18 @@ useEffect(() => {
     },
     {
       id: 2,
-      title: "Chatting Application",
-      description: "A web-based chat system built using JSP that allows real-time messaging between users.",
+      title: "E Commerce Application",
+      description: "A full-stack e-commerce web application with cart management, order processing, and a support chatbot built using Next.js and Spring Boot",
       image: "/api/placeholder/400/250",
-      technologies: ["JSP", "Java"],
-      repoUrl: "https://github.com/kavisudar/ChatApp"
+      technologies: ["React", "Spring Boot"],
+      repoUrl: "https://github.com/kavisudar/E-commerce-FrontEnd"
     },
     {
       id: 3,
       title: "Table Booking and Food Ordering System",
       description: "A responsive frontend web app for restaurant table booking and food ordering, designed with React for dynamic UI updates.",
       image: "/api/placeholder/400/250",
-      technologies: ["React", "HTML", "CSS", "JavaScript"],
+      technologies: ["React", "Spring Boot", "JavaScript"],
       repoUrl: "https://github.com/kavisudar/SmartDine"
     }
   ];
